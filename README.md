@@ -57,11 +57,11 @@ NLP + React project to match resumes with job descriptions.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhisha11&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=subhisha11&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhisha11&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=subhisha11&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🌐 Connect With Me
