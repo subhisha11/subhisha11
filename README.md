@@ -54,22 +54,14 @@ A Flask-based platform for students to collaborate and share resources.
 ### 📄 Resume Matcher
 NLP + React project to match resumes with job descriptions.
 
----
-
-## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=subhisha11&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subhisha11&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhisha11&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=subhisha11&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhisha11&layout=compact&theme=radical" />
 </p>
 
 ## 🌐 Connect With Me
