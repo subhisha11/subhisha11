@@ -58,19 +58,19 @@ NLP + React project to match resumes with job descriptions.
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhisha11&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=subhisha11&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhisha11&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhisha11&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhisha11&theme=tokyonight" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=subhisha11&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## 🌐 Connect With Me
 
